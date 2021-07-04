@@ -1,0 +1,9 @@
+Displacement		70.0000	m3
+Mean_Chine_beam		6.5	m
+Deadrise		20	
+LCG			10	m
+Speed			45	m/s
+Density			1000	kg/m3
+
+
+Modify the value without changing format.
