@@ -5,6 +5,7 @@ And skip the last paragraph.
 You can edit the input parameter by changing the value in the 'input data.txt' file.
 Remember! Don't change the format and sequences in this file. Just simply Modify the data.
 
+----------------------------------------------------------------------------------
 
 You must have to install python. You can install python in two ways.
 	1. From python's official website.
@@ -28,10 +29,16 @@ Now you can run the python interpreter in two ways.
 		You can see the location by searching 'Python' in the search bar and click 'open file location.'
 
 		Now again type in cmd 'python --version' and hit 'enter'. I think everything is okay.
-		
-		You must download and extract the file. If you don't, you can't read this. I assume you don't rename any file.
-		Go to the folder of the file and single click on the folder. Then click and hold 'Shift' and
-		'Right click' on the mouse. Click 'open command window' or 'Open PowerShell window here'
-		Now type 'python savitsky.py' and hit 'enter'
 
-		Now the program is started!
+Now you have to download a library nammed 'wolframalpha'
+If you installed PyCharm or any IDE, go to the IDE terminal and give command:
+		pip install wolframalpha
+If you are using cmd or powershell then open cmd or powershell and give command:
+		python -m pip install wolframalpha
+		
+
+You must download and extract the file. If you don't, you can't read this. I assume you don't rename any file.
+Go to the folder of the file and single click on the folder. Then click and hold 'Shift' and 'Right click' on the mouse. 
+Click 'open command window' or 'Open PowerShell window here'. Now type 'python savitsky.py' and hit 'enter'
+
+Now the program is started!
